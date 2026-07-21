@@ -199,7 +199,7 @@ export default function Home() {
             <h1>
               Dressing the
               <br />
-              women <span className="it">&amp;</span> little
+              women <span className="amp">&amp;</span> little
               <br />
               ones of <span className="it">Kochi.</span>
             </h1>
@@ -444,7 +444,7 @@ export default function Home() {
           <div className="rev-grid rv">
             <div className="rev">
               <span className="qm">“</span>
-              <div className="stars">★★★★★</div>
+              <div className="stars">●●●●●</div>
               <blockquote>
                 Rented a full bridal set for my sister&rsquo;s engagement —{" "}
                 <em>everyone thought it was real gold.</em> Collection and return
@@ -456,7 +456,7 @@ export default function Home() {
             </div>
             <div className="rev">
               <span className="qm">“</span>
-              <div className="stars">★★★★★</div>
+              <div className="stars">●●●●●</div>
               <blockquote>
                 My go-to shop for kurtis. The owner has a <em>great eye</em> —
                 she&rsquo;ll pull out exactly what suits you. Honest prices too.
@@ -467,7 +467,7 @@ export default function Home() {
             </div>
             <div className="rev">
               <span className="qm">“</span>
-              <div className="stars">★★★★★</div>
+              <div className="stars">●●●●●</div>
               <blockquote>
                 Bought my daughter&rsquo;s birthday frock here.{" "}
                 <em>Lovely collection for kids</em> and very patient, friendly
