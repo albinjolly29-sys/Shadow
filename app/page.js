@@ -568,6 +568,7 @@ export default function Home() {
               <a href="#collections">Collections</a>
               <a href="#rent">Covering &amp; Rentals</a>
               <a href="#visit">Visit</a>
+              <a href="/admin">Admin</a>
             </div>
             <span>Vennala · Ernakulam · Kerala</span>
           </div>
