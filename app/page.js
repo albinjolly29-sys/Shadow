@@ -242,17 +242,17 @@ export default function Home() {
           {[0, 1].map((i) => (
             <span key={i} style={{ display: "contents" }}>
               <span>Kurtis &amp; sets</span>
-              <span className="sep">✦</span>
+              <span className="sep">●</span>
               <span>Sarees for the season</span>
-              <span className="sep">✦</span>
+              <span className="sep">●</span>
               <span>Kids&rsquo; partywear</span>
-              <span className="sep">✦</span>
+              <span className="sep">●</span>
               <span>Malabar gold covering</span>
-              <span className="sep">✦</span>
+              <span className="sep">●</span>
               <span>Rental ornaments</span>
-              <span className="sep">✦</span>
+              <span className="sep">●</span>
               <span>New arrivals weekly</span>
-              <span className="sep">✦</span>
+              <span className="sep">●</span>
             </span>
           ))}
         </div>
@@ -444,7 +444,7 @@ export default function Home() {
           <div className="rev-grid rv">
             <div className="rev">
               <span className="qm">“</span>
-              <div className="stars">●●●●●</div>
+              <div className="stars">★★★★★</div>
               <blockquote>
                 Rented a full bridal set for my sister&rsquo;s engagement —{" "}
                 <em>everyone thought it was real gold.</em> Collection and return
@@ -456,7 +456,7 @@ export default function Home() {
             </div>
             <div className="rev">
               <span className="qm">“</span>
-              <div className="stars">●●●●●</div>
+              <div className="stars">★★★★★</div>
               <blockquote>
                 My go-to shop for kurtis. The owner has a <em>great eye</em> —
                 she&rsquo;ll pull out exactly what suits you. Honest prices too.
@@ -467,7 +467,7 @@ export default function Home() {
             </div>
             <div className="rev">
               <span className="qm">“</span>
-              <div className="stars">●●●●●</div>
+              <div className="stars">★★★★★</div>
               <blockquote>
                 Bought my daughter&rsquo;s birthday frock here.{" "}
                 <em>Lovely collection for kids</em> and very patient, friendly
